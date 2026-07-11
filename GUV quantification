@@ -1,0 +1,4 @@
+GUV tracking and quantification notebook
+
+The GUV quantification script used in this study is a modified version of the code available at https://github.com/JohSchoeneberg/GUV_Tracking_Quantification. 
+We adapted the original notebook for our specific analysis pipeline and experimental conditions; the modified version used here has been deposited here. 
