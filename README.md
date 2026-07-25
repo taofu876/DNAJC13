@@ -3,14 +3,19 @@
 ## Repository Overview
 
 This repository contains R scripts, ImageJ macros, GUV, and supporting data files used in the following publication:
+
 **Title:**
 Structural Mechanisms of DNAJC13 Dimeric Assembly and InsP6 Binding 
 in Recycling Endosome Regulation
+
 **Authors:**
 Tao Fu<sup>1,2</sup>, Chan Lee<sup>1</sup>, Frances V. Hundley<sup>1,2,\*</sup>,Joao A. Paulo<sup>1</sup>, and J. Wade Harper<sup>1,2</sup>
+
 **Affiliations:**
 <sup>1</sup>Department of Cell Biology, Harvard Medical School, Boston, MA, USA
+
 <sup>2</sup>Aligning Science Across Parkinson's (ASAP) Collaborative Research Network, Chevy Chase, MD 20815, USA
+
 <sup>\*</sup>Current address: Department of Biological Sciences, Smith College, Northampton, MA
 
 ## Abstract
