@@ -29,4 +29,5 @@ The balance of plasma membrane protein degradation and recycling during endocyto
 - GUV
 
 Author: Tao Fu, Harvard Medical School
+
 For any questions or collaborations, please feel free to reach out.
