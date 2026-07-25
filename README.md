@@ -24,7 +24,7 @@ The balance of plasma membrane protein degradation and recycling during endocyto
 
 ## Contents
 
-- FIJI macros:
+- FIJI macros
 - R scripts
 - GUV
 
